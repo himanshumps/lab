@@ -1,0 +1,5 @@
+APP_NAME: rec-dev-demo
+MS_NAME: lab
+BRANCH: master
+GIT_SOURCE_URL: https://github.com/himanshumps/lab.git
+SONAR_HOST_URL: http://sonar-rec-dev-demo-cicd.52.172.12.252.nip.io
